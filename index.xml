@@ -246,5 +246,98 @@
         </edition>
       </release>
     </software>
+
+    <software name="Windows Server">
+      <release name="2016">
+        <edition name="Datacenter">
+          <platform arch="x64">
+            <file name="Windows_Server_2016_Datacenter_EVAL_en-us_14393_refresh.ISO">
+              <![CDATA[https://software-static.download.prss.microsoft.com/pr/download/Windows_Server_2016_Datacenter_EVAL_en-us_14393_refresh.ISO]]>
+            </file>
+          </platform>
+        </edition>
+
+        <edition name="Essentials">
+          <platform arch="x64">
+            <file name="14393.0.161119-1705.RS1_REFRESH_SERVERESSENTIALS_OEM_X64FRE_EN-US.ISO">
+              <![CDATA[https://go.microsoft.com/fwlink/p/?LinkID=2195170&clcid=0x409&culture=en-us&country=US]]>
+            </file>
+          </platform>
+        </edition>
+      </release>
+
+      <release name="2019">
+        <edition>
+          <platform arch="x64">
+            <file name="17763.3650.221105-1748.rs5_release_svc_refresh_SERVER_EVAL_x64FRE_en-us.iso">
+              <![CDATA[https://software-static.download.prss.microsoft.com/dbazure/988969d5-f34g-4e03-ac9d-1f9786c66749/17763.3650.221105-1748.rs5_release_svc_refresh_SERVER_EVAL_x64FRE_en-us.iso]]>
+            </file>
+          </platform>
+        </edition>
+
+        <edition name="Essentials">
+          <platform arch="x64">
+            <file
+              name="17763.737.190906-2324.rs5_release_svc_refresh_SERVERESSENTIALS_OEM_x64FRE_en-us_1.iso">
+              <![CDATA[https://software-static.download.prss.microsoft.com/pr/download/17763.737.190906-2324.rs5_release_svc_refresh_SERVERESSENTIALS_OEM_x64FRE_en-us_1.iso]]>
+            </file>
+          </platform>
+        </edition>
+      </release>
+
+      <release name="2022">
+        <edition>
+          <platform arch="x64">
+            <file name="SERVER_EVAL_x64FRE_en-us.iso">
+              <![CDATA[https://software-static.download.prss.microsoft.com/sg/download/888969d5-f34g-4e03-ac9d-1f9786c66749/SERVER_EVAL_x64FRE_en-us.iso]]>
+            </file>
+          </platform>
+        </edition>
+      </release>
+
+      <release name="2025">
+        <edition>
+          <platform arch="x64">
+            <file name="26100.1742.240906-0331.ge_release_svc_refresh_SERVER_EVAL_x64FRE_en-us.iso">
+              <![CDATA[https://software-static.download.prss.microsoft.com/dbazure/888969d5-f34g-4e03-ac9d-1f9786c66749/26100.1742.240906-0331.ge_release_svc_refresh_SERVER_EVAL_x64FRE_en-us.iso]]>
+            </file>
+          </platform>
+        </edition>
+      </release>
+    </software>
+
+    <software name="Skype for Business Server">
+      <release name="2019">
+        <edition>
+          <platform arch="x64">
+            <file name="W17_EvalFix_116_en-US.iso">
+              <![CDATA[https://download.microsoft.com/download/2/F/B/2FB4B444-F9F2-4F30-9213-25BCE664F4FA/W17_EvalFix_116_en-US.iso]]>
+            </file>
+          </platform>
+        </edition>
+      </release>
+
+      <release name="2016">
+        <edition>
+          <platform arch="x64">
+            <file name="officeserver.img">
+              <![CDATA[https://download.microsoft.com/download/B/B/F/BBF9C255-6AEF-4922-9679-BD21119ED574/officeserver.img]]>
+            </file>
+          </platform>
+        </edition>
+      </release>
+
+      <release name="2013">
+        <edition>
+          <platform arch="x64">
+            <file name="SharePointServer_x64_ar-sa.img">
+              <![CDATA[https://download.microsoft.com/download/2/C/1/2C1F8148-4F5A-4525-8B84-EB8681E91508/SharePointServer_x64_ar-sa.img]]>
+            </file>
+          </platform>
+        </edition>
+      </release>
+    </software>
+
+
   </manufacturer>
 </collection>
