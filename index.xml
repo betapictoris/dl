@@ -201,10 +201,9 @@
               <file name="17763.107.101029-1455.rs5_release_svc_refresh_CLIENT_LTSC_EVAL_x64FRE_en-us.iso">
                 <![CDATA[https://software-static.download.prss.microsoft.com/pr/download/17763.107.101029-1455.rs5_release_svc_refresh_CLIENT_LTSC_EVAL_x64FRE_en-us.iso]]>
               </file>
+            </platform>
           </version>
         </edition>
-
-        
       </release>
 
       <release name="8.1">
